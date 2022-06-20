@@ -32,7 +32,7 @@ void    bit_handler(int bit)
 
 intmain(void)
 {
-    ft_printf("Welcome To My Server!\n");
+    ft_printf("Welcome To HatedCode's Server!\n");
     ft_printf("My Server PID is: %d\n", getpid());
     while (1)
     {
